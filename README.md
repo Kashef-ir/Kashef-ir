@@ -17,7 +17,7 @@
 - 👨‍🦱 I am a `Junior` at Front-End Developer
 - 🏫 I am a Bachelor student of electrical engineering in Tafresh University
 - 👨‍💻 **Currently Learning** `JavaScript` And `TailWind`
-- 📧 Feel free to **reach me out**
+- 📧 Feel free to **reach me out** muhamadhashemi142@gmail.com
 - 💪 Always believe `"You are what you loved"`
 - [![wakatime](https://wakatime.com/badge/user/018dbc72-3560-4573-958c-8a7b1cfdb440.svg)](https://wakatime.com/@018dbc72-3560-4573-958c-8a7b1cfdb440)
 
@@ -73,3 +73,25 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=kashef-ir&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
+
+<!--Contact Me-->
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="25" height="25" /> Contact Me 
+
+<div>
+  <a href="https://twitter.com/kashefsaltane">
+      <img src="https://skillicons.dev/icons?i=twitter" />
+  </a> <a href="https://www.linkedin.com/in/muhamad-hashemi-22962a227/">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  <a href="https://www.instagram.com/muhamadhashemi/">
+      <img src="https://skillicons.dev/icons?i=instagram" />
+  </a> <a href="https://stackoverflow.com/users/16829141/kashef">
+      <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a> <a href="mailto:muhamadhashemi142@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" />
+  </a> 
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
