@@ -19,7 +19,6 @@
 - 👨‍💻 **Currently Learning** `JavaScript` And `TailWind`
 - 📧 Feel free to **reach me out** muhamadhashemi142@gmail.com
 - 💪 Always believe `"You are what you loved"`
-- [![wakatime](https://wakatime.com/badge/user/018dbc72-3560-4573-958c-8a7b1cfdb440.svg)](https://wakatime.com/@018dbc72-3560-4573-958c-8a7b1cfdb440)
 
 <br>
 
