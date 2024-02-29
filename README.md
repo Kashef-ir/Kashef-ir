@@ -19,6 +19,10 @@
 - 👨‍💻 **Currently Learning** `JavaScript` And `TailWind`
 - 📧 Feel free to **reach me out** muhamadhashemi142@gmail.com
 - 💪 Always believe `"You are what you loved"`
+<br>
+
+ [![wakatime](https://wakatime.com/badge/user/018dbc72-3560-4573-958c-8a7b1cfdb440.svg?style=for-the-badge)](https://wakatime.com/@018dbc72-3560-4573-958c-8a7b1cfdb440)
+ [![16personalities](https://img.shields.io/badge/16personalities-INTJA-orange?style=for-the-badge)](https://www.16personalities.com/profiles/f882a4f60347d)
 
 <br>
 
