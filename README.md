@@ -16,7 +16,7 @@
 
 - 👨‍🦱 I am a `Junior` at Front-End Developer
 - 🏫 I am a Bachelor student of electrical engineering in Tafresh University
-- 👨‍💻 **Currently Learning** `JavaScript` And `TailWind`
+- 👨‍💻 **Currently Learning** `React Js` And `TailWind`
 - 📧 Feel free to **reach me out** muhamadhashemi142@gmail.com
 - 💪 Always believe `"You are what you loved"`
 <br>
