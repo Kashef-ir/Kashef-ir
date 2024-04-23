@@ -14,7 +14,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- 👨‍🦱 I am a `Junior` at Front-End Developer
+- 👨‍🦱 I am a `Junior` Front-End Developer
 - 🏫 I am a Bachelor student of electrical engineering in Tafresh University
 - 👨‍💻 **Currently Learning** `React Js` And `TailWind`
 - 📧 Feel free to **reach me out** muhamadhashemi142@gmail.com
