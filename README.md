@@ -34,7 +34,10 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Technologies
 
+[![Technologies](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 [![Technologies](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
