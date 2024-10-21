@@ -93,8 +93,6 @@
       <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  <a href="https://www.instagram.com/muhamadhashemi/">
       <img src="https://skillicons.dev/icons?i=instagram" />
-  </a> <a href="https://stackoverflow.com/users/16829141/kashef">
-      <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a> <a href="mailto:muhamadhashemi142@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" />
   </a> 
