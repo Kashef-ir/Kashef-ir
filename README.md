@@ -45,7 +45,7 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
-[![IDEs](https://skillicons.dev/icons?i=vscode,atom)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=vscode,atom,sublime)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
