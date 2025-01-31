@@ -30,7 +30,7 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Languages
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,python,c,cpp)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Technologies
 
