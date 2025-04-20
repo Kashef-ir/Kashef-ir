@@ -16,7 +16,7 @@
 
 - 👨‍🦱 I am a `Front-End` Developer
 - 🏫 I am a Bachelor student of electrical engineering in Tafresh University
-- 👨‍💻 **Currently Learning** `React Js` And `TailWind`
+- 👨‍💻 **Currently Learning** `Vue Js` And `TailWind`
 - 📧 Feel free to **reach me out** muhamadhashemi142@gmail.com
 - 💪 Always believe `"You are what you loved"`
 <br>
@@ -34,19 +34,15 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Technologies
 
-[![Technologies](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Technologies](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 [![Technologies](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 [![Technologies](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
-[![Technologies](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
-[![Software & Tools](https://skillicons.dev/icons?i=git,github,md,bash,vim)](https://skillicons.dev)
+[![Software & Tools](https://skillicons.dev/icons?i=git,github,md,bash,vscode,vim,neovim)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
-
-[![IDEs](https://skillicons.dev/icons?i=vscode,atom,sublime)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
