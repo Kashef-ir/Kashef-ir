@@ -50,7 +50,6 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
-[![Operating Systems](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 [![Operating Systems](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![Operating Systems](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 <br>
