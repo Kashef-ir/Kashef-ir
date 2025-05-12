@@ -42,7 +42,6 @@
 
 [![Software & Tools](https://skillicons.dev/icons?i=git,github,md,bash,vscode,vim,neovim)](https://skillicons.dev)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
