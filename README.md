@@ -87,9 +87,7 @@
       <img src="https://skillicons.dev/icons?i=twitter" />
   </a> <a href="https://www.linkedin.com/in/muhamad-hashemi-22962a227/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>  <a href="https://www.instagram.com/muhamadhashemi/">
-      <img src="https://skillicons.dev/icons?i=instagram" />
-  </a> <a href="mailto:muhamadhashemi142@gmail.com">
+  </a>  <a href="mailto:muhamadhashemi142@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" />
   </a> 
 <a href="http://www.coffeete.ir/MuhamadHashemi">
