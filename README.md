@@ -16,7 +16,7 @@
 
 - 👨‍🦱 I am a `Front-End` Developer
 - 🏫 I am a Bachelor student of electrical engineering in Tafresh University
-- 👨‍💻 **Currently Learning** `Vue Js` And `TailWind`
+- 👨‍💻 **Currently Learning** `React Js` And `Next`
 - 📧 Feel free to **reach me out** muhamadhashemi142@gmail.com
 - 💪 Always believe `"You are what you loved"`
 <br>
@@ -34,9 +34,7 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Technologies
 
-[![Technologies](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![Technologies](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-[![Technologies](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=tailwind,bootstrap,vue,nuxt)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
