@@ -14,11 +14,10 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- 👨‍🦱 I am a `Front-End` Developer
-- 🏫 I am a Bachelor student of electrical engineering in Tafresh University
-- 👨‍💻 **Currently Learning** `React Js` And `Next`
+- 👨‍🦱 I am a `Front-End` Developer with interests in `Web Security`.
+- 🏫 I am a Bachelor student of electrical engineering.
+- 👨‍💻 **Currently Learning** `React JS` And `Next`.
 - 📧 Feel free to **reach me out** muhamadhashemi142@gmail.com
-- 💪 Always believe `"You are what you loved"`
 <br>
 
  [![wakatime](https://wakatime.com/badge/user/018dbc72-3560-4573-958c-8a7b1cfdb440.svg?style=for-the-badge)](https://wakatime.com/@018dbc72-3560-4573-958c-8a7b1cfdb440)
@@ -30,7 +29,7 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Languages
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,python,cpp,)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Technologies
 
@@ -38,12 +37,12 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
-[![Software & Tools](https://skillicons.dev/icons?i=git,github,md,bash,vscode,vim,neovim)](https://skillicons.dev)
+[![Software & Tools](https://skillicons.dev/icons?i=git,github,md,bash,vscode,vim,neovim,postman)](https://skillicons.dev)
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> OS and Platforms
 
-[![Operating Systems](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![OS & Platforms](https://skillicons.dev/icons?i=linux,windows,arduino,raspberrypi)](https://skillicons.dev)
 
 <br>
 
