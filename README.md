@@ -5,10 +5,6 @@
   </p>
 </p>
 
-<p align="center">
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashef-ir&theme=github_dark) 
-</p>
-
 ---
 
 ## 👋 About Me
@@ -47,11 +43,12 @@ Git · GitHub · Markdown · Bash · VS Code · Vim / Neovim · Postman · Linux
 ## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashef-ir&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kashef-ir&theme=onedark&langs_count=4" alt="Top Languages" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kashef-ir&theme=tokyonight&langs_count=7" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashef-ir&theme=onedark" alt="GitHub Streak" />
 </p>
 
 ---
