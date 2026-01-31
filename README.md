@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kashef-ir">
-    <img src="https://github-readme-stats.vercel.app/api?username=kashef-ir&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashef-ir&theme=github_dark) 
 </p>
 
 ---
