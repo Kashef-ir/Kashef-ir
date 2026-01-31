@@ -1,98 +1,82 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <h1 align="center">Muhamad Hashemi</h1>
+  <p align="center">
+    <em>Front-End Developer · Web Security Enthusiast · Embedded & PCB Designer</em>
+  </p>
+</p>
 
-<!--Header-->
+<p align="center">
+  <a href="https://github.com/kashef-ir">
+    <img src="https://github-readme-stats.vercel.app/api?username=kashef-ir&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+</p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" />, I'm  Muhamad</h1></summary>
-  </ul>
-</div>
+---
 
-<!--About Me-->
+## 👋 About Me
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+I build clean, secure front-end experiences — and I’m equally comfortable sketching a PCB or writing embedded firmware.  
+Balancing **software craftsmanship** with **hardware intuition** lets me approach problems from uncommon angles.
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+- 🎓 Bachelor’s student in Electrical Engineering  
+- 💻 Front-End Development with a security mindset  
+- 🔒 Interested in OWASP, secure coding, and threat modeling  
+- 📫 Contact: <a href="mailto:muhamadhashemi142@gmail.com">muhamadhashemi142@gmail.com</a>
 
-- 👨‍🦱 I am a `Front-End` Developer with interests in `Web Security`.
-- 🏫 I am a Bachelor student of electrical engineering.
-- 👨‍💻 **Currently Learning** `React JS` And `Next`.
-- 📧 Feel free to **reach me out** muhamadhashemi142@gmail.com
-<br>
+---
 
- [![wakatime](https://wakatime.com/badge/user/018dbc72-3560-4573-958c-8a7b1cfdb440.svg?style=for-the-badge)](https://wakatime.com/@018dbc72-3560-4573-958c-8a7b1cfdb440)
- [![16personalities](https://img.shields.io/badge/16personalities-INTJA-orange?style=for-the-badge)](https://www.16personalities.com/profiles/f882a4f60347d)
+## 🚀 Skills
 
-<br>
+### 🧠 Programming Languages
 
-## 🛠️ My Skills
+**Python · C++ · JavaScript · HTML · CSS · BASIC (BASCOM-AVR) · MATLAB**
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Languages
+### ⚙️ Frameworks & Libraries
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,python,cpp,)](https://skillicons.dev)
+Vue.js · Nuxt · Tailwind CSS · Bootstrap
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Technologies
+### 🛠 Tools & Platforms
 
-[![Technologies](https://skillicons.dev/icons?i=tailwind,bootstrap,vue,nuxt)](https://skillicons.dev)
+Git · GitHub · Markdown · Bash · VS Code · Vim / Neovim · Postman · Linux · Windows
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
+### 💡 Embedded & Hardware
 
-[![Software & Tools](https://skillicons.dev/icons?i=git,github,md,bash,vscode,vim,neovim,postman)](https://skillicons.dev)
+**PCB & EDA:** KiCad · Altium Designer  
+**Embedded:** AVR toolchains · BASCOM-AVR (BASIC) · Arduino · Raspberry Pi
 
+---
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> OS and Platforms
+## 📊 GitHub Highlights
 
-[![OS & Platforms](https://skillicons.dev/icons?i=linux,windows,arduino,raspberrypi)](https://skillicons.dev)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashef-ir&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kashef-ir&theme=tokyonight&langs_count=7" alt="Top Languages" />
+</p>
 
-<!--Stats-->
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-<p align="left">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=kashef-ir&show_icons=true&theme=tokyonight" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kashef-ir&theme=tokyonight&hide_border=false" /> 
-</td>
+---
 
+## 🔗 Connect with Me
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kashef-ir&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
-  </td>
-</tr>
-</table>
-
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=kashef-ir&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-
-<br>
-
-<!--Contact Me-->
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="25" height="25" /> Contact Me 
-
-<div>
+<p align="center">
   <a href="https://twitter.com/kashefsaltane">
-      <img src="https://skillicons.dev/icons?i=twitter" />
-  </a> <a href="https://www.linkedin.com/in/muhamad-hashemi-22962a227/">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>  <a href="mailto:muhamadhashemi142@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" />
-  </a> 
-<a href="http://www.coffeete.ir/MuhamadHashemi">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" align='right' />
-</a>
-</div>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhamad-hashemi-22962a227/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhamadhashemi142@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wakatime.com/@018dbc72-3560-4573-958c-8a7b1cfdb440">
+    <img src="https://img.shields.io/badge/WakaTime-333333?logo=wakapi&logoColor=white" alt="WakaTime" />
+  </a>
+</p>
 
+---
 
-<br>
+> “Understanding both hardware and software is not just breadth — it’s *perspective*.”  
+> Let’s build things that last.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
