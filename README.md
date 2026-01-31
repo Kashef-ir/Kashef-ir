@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Muhamad Hashemi</h1>
+  <h1 align="center">Mohammad (Kashef) Hashemi</h1>
   <p align="center">
     <em>Front-End Developer · Web Security Enthusiast · Embedded & PCB Designer</em>
   </p>
