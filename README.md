@@ -1,51 +1,65 @@
+# Mohammad (Kashef) Hashemi
+
 <p align="center">
-  <h1 align="center">Mohammad (Kashef) Hashemi</h1>
-  <p align="center">
-    <em>Front-End Developer · Web Security Enthusiast · Embedded & PCB Designer</em>
-  </p>
+  <em>Electronics Engineer • Embedded Systems • Hardware Security • Open Source</em>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I build clean, secure front-end experiences — and I’m equally comfortable sketching a PCB or writing embedded firmware.  
-Balancing **software craftsmanship** with **hardware intuition** lets me approach problems from uncommon angles.
+I'm an Electrical Engineer with a passion for designing reliable electronic systems and understanding technology from the hardware layer to secure software.
 
-- 🎓 Bachelor’s student in Electrical Engineering  
-- 💻 Front-End Development with a security mindset  
-- 🔒 Interested in OWASP, secure coding, and threat modeling  
-- 📫 Contact: <a href="mailto:muhamadhashemi142@gmail.com">muhamadhashemi142@gmail.com</a>
+My work and interests revolve around **embedded systems, PCB design, Linux, and cybersecurity**. I enjoy building practical solutions, reverse engineering systems, and continuously expanding my knowledge across both electronics and software engineering.
 
----
-
-## 🚀 Skills
-
-### 🧠 Programming Languages
-
-**Python · C++ · JavaScript · HTML · CSS · BASIC (BASCOM-AVR) · MATLAB**
-
-### ⚙️ Frameworks & Libraries
-
-Vue.js · Nuxt · Tailwind CSS · Bootstrap
-
-### 🛠 Tools & Platforms
-
-Git · GitHub · Markdown · Bash · VS Code · Vim / Neovim · Postman · Linux · Windows
-
-### 💡 Embedded & Hardware
-
-**PCB & EDA:** KiCad · Altium Designer  
-**Embedded:** AVR toolchains · BASCOM-AVR (BASIC) · Arduino · Raspberry Pi
+* ⚡ Electronics Engineer
+* 🔌 Embedded Systems & PCB Design
+* 🔒 Web Security, OWASP & Bug Hunting
+* 🐧 Linux Enthusiast & Open Source Advocate
+* 💻 Python • C/C++ • JavaScript
+* 📫 **Email:** <a href="mailto:muhamadhashemi142@gmail.com">[muhamadhashemi142@gmail.com](mailto:muhamadhashemi142@gmail.com)</a>
 
 ---
 
-## 📊 GitHub Highlights
+## ⚙️ Technologies
+
+### Programming
+
+**Python • C • C++ • JavaScript • HTML • CSS • MATLAB • BASCOM-AVR**
+
+### Electronics & Embedded
+
+* KiCad
+* Altium Designer
+* AVR Microcontrollers
+* Arduino
+* Raspberry Pi
+* Embedded C
+* BASCOM-AVR
+
+### Security
+
+* OWASP Top 10
+* Web Application Security
+* Bug Hunting
+* Secure Coding
+* Threat Modeling
+
+### Development & Tools
+
+Git • GitHub • Linux • Bash • Neovim • VS Code • Postman • Markdown
+
+### Front-End
+
+Vue.js • Nuxt • Tailwind CSS • Bootstrap
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kashef-ir&theme=onedark&langs_count=4" alt="Top Languages" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashef-ir&theme=onedark" alt="GitHub Streak" />
@@ -53,7 +67,7 @@ Git · GitHub · Markdown · Bash · VS Code · Vim / Neovim · Postman · Linux
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect
 
 <p align="center">
   <a href="https://twitter.com/kashefsaltane">
@@ -72,6 +86,4 @@ Git · GitHub · Markdown · Bash · VS Code · Vim / Neovim · Postman · Linux
 
 ---
 
-> “Understanding both hardware and software is not just breadth — it’s *perspective*.”  
-> Let’s build things that last.
-
+> *Building secure systems by bridging electronics, embedded software, and cybersecurity.*
