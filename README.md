@@ -17,7 +17,7 @@ My work and interests revolve around **embedded systems, PCB design, Linux, and 
 * 🔒 Web Security, OWASP & Bug Hunting
 * 🐧 Linux Enthusiast & Open Source Advocate
 * 💻 Python • C/C++ • JavaScript
-* 📫 **Email:** <a href="mailto:muhamadhashemi142@gmail.com">[muhamadhashemi142@gmail.com](mailto:muhamadhashemi142@gmail.com)</a>
+* 📫 **Email:** [MohammadHashemi.me@proton.me](mailto:MohammadHashemi.me@proton.me)</a>
 
 ---
 
@@ -25,15 +25,15 @@ My work and interests revolve around **embedded systems, PCB design, Linux, and 
 
 ### Programming
 
-**Python • C • C++ • JavaScript • HTML • CSS • MATLAB • BASCOM-AVR**
+**Python • C • C++ • JavaScript • MATLAB • BASCOM-AVR**
 
 ### Electronics & Embedded
 
-* KiCad
-* Altium Designer
-* AVR Microcontrollers
+* Altium Designer / KiCad
+* AVR/ARM Microcontrollers
 * Arduino
 * Raspberry Pi
+* STM32
 * Embedded C
 * BASCOM-AVR
 
