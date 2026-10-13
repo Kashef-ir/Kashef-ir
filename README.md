@@ -35,7 +35,6 @@ My work and interests revolve around **embedded systems, PCB design, Linux, and 
 * Raspberry Pi
 * STM32
 * Embedded C
-* BASCOM-AVR
 
 ### Security
 
